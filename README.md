@@ -1,2 +1,1 @@
-# community-workshop-planner-b2
-Saieswar Github first 
+Saieswar's Github first project
